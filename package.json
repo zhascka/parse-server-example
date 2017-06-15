@@ -1,7 +1,7 @@
 {
-  "name": "parse-server-example",
-  "version": "1.4.0",
-  "description": "An example Parse API server using the parse-server module",
+  "name": "awesome-storage",
+  "version": "3.2.3",
+  "description": "Parse Api Server",
   "main": "index.js",
   "repository": {
     "type": "git",
